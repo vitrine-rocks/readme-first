@@ -8,6 +8,6 @@
 - Heroku
 
 #### Frontend:
-- vue 3.x;
+- nuxt (universal app type);
 - SEO friendly
 - Github Actions
