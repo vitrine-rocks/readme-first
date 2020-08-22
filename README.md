@@ -11,3 +11,5 @@
 - nuxt (universal app type);
 - SEO friendly
 - Github Actions
+
+For both projects we are using gitflow.
